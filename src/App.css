@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  padding-right: 20px;
+  padding-left: 20px;  
+}
+
+.titulo{
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+.nuevo, .datosNuevos{
+	margin-bottom: 20px;
+}
+
+.datosNuevos *{
+
+	margin-right: 10px
+
+}
