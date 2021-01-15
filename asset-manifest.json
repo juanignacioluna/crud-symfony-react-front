@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/crud-symfony-react-front/static/css/main.dd6f0f13.chunk.css",
+    "main.js": "/crud-symfony-react-front/static/js/main.e49f02b2.chunk.js",
+    "main.js.map": "/crud-symfony-react-front/static/js/main.e49f02b2.chunk.js.map",
+    "runtime-main.js": "/crud-symfony-react-front/static/js/runtime-main.50db0f73.js",
+    "runtime-main.js.map": "/crud-symfony-react-front/static/js/runtime-main.50db0f73.js.map",
+    "static/js/2.993e5e6a.chunk.js": "/crud-symfony-react-front/static/js/2.993e5e6a.chunk.js",
+    "static/js/2.993e5e6a.chunk.js.map": "/crud-symfony-react-front/static/js/2.993e5e6a.chunk.js.map",
+    "index.html": "/crud-symfony-react-front/index.html",
+    "precache-manifest.e3b858821a298030143615cb488cc5e0.js": "/crud-symfony-react-front/precache-manifest.e3b858821a298030143615cb488cc5e0.js",
+    "service-worker.js": "/crud-symfony-react-front/service-worker.js",
+    "static/css/main.dd6f0f13.chunk.css.map": "/crud-symfony-react-front/static/css/main.dd6f0f13.chunk.css.map",
+    "static/js/2.993e5e6a.chunk.js.LICENSE.txt": "/crud-symfony-react-front/static/js/2.993e5e6a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/crud-symfony-react-front/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50db0f73.js",
+    "static/js/2.993e5e6a.chunk.js",
+    "static/css/main.dd6f0f13.chunk.css",
+    "static/js/main.e49f02b2.chunk.js"
+  ]
+}
